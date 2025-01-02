@@ -21,4 +21,4 @@ pengalaman pengguna optimal di berbagai ukuran layar.
 Struktur CSS ini dirancang untuk memberikan gaya visual pada halaman web yang melibatkan navigasi, bagian "Tentang Kami," dan anggota tim.
 
 #Struktur JavaScript
-Kode JavaScript ini dirancang untuk membuat slider atau galeri gambar yang dapat menampilkan satu slide (gambar) dalam satu waktu.
+- Kode JavaScript ini dirancang untuk membuat slider atau galeri gambar yang dapat menampilkan satu slide (gambar) dalam satu waktu.
