@@ -10,3 +10,15 @@ Struktur ini dirancang untuk menampilkan informasi yang lengkap dan terperinci t
 Struktur ini disusun untuk menjadi halaman depan yang sederhana dan fokus, dengan judul utama, navigasi, dan link langsung untuk mengakses artikel terkait Reog Ponorogo.
 - tentang kami.html 
 Struktur ini dirancang untuk memberikan informasi menyeluruh mengenai tujuan dan tim pengembang situs dengan tampilan sederhana dan fokus.
+
+#Struktur CSS
+- artikel.css
+Struktur CSS ini bertujuan untuk memberikan gaya pada halaman HTML, khususnya untuk navigasi, bagian artikel, dan slider gambar.
+- style.css
+Struktur CSS ini dirancang untuk memberikan gaya yang responsif dan modern, dengan fokus pada estetika navigasi dan hero section. Efek hover dan responsivitas memastikan 
+pengalaman pengguna optimal di berbagai ukuran layar.
+- tentang kami.css
+Struktur CSS ini dirancang untuk memberikan gaya visual pada halaman web yang melibatkan navigasi, bagian "Tentang Kami," dan anggota tim.
+
+#Struktur JavaScript
+Kode JavaScript ini dirancang untuk membuat slider atau galeri gambar yang dapat menampilkan satu slide (gambar) dalam satu waktu.
